@@ -1,0 +1,29 @@
+mjml
+    //- Head
+    mj-head
+        mj-title Cartes déjeuner réservées INSTITUT PRIVE D'ALTERNANCE ET DE MANAGEMENT Mjml
+        mj-raw.
+            <meta name="color-scheme" content="light"/>
+            <meta name="supported-color-schemes" content="light"/>
+            <meta name="format-detection" content="telephone=no"/>
+            <meta name="format-detection" content="date=no"/>
+            <meta name="format-detection" content="address=no"/>
+            <meta name="format-detection" content="email=no"/>
+
+        mj-attributes
+            mj-all(font-family='Arial, Helvetica, sans-serif' font-weight='300' font-size='16px' line-height='120%' color='#626262')/
+            mj-image(border='none')/
+        mj-breakpoint(width='480px')
+    //- Body
+    mj-body(background-color="#dddddd")       
+        //- content
+        block content
+        //- header
+        block header
+            include ../includes/_header
+        //- arguments
+        block arguments
+            include ../includes/_arguments
+        //- footer
+        block footer
+            include ../includes/_footer

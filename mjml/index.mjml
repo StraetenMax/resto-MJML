@@ -1,0 +1,82 @@
+
+<mjml>
+  <mj-head>
+    <mj-title>Cartes déjeuner réservées INSTITUT PRIVE D'ALTERNANCE ET DE MANAGEMENT Mjml</mj-title>
+    <mj-raw>
+      <meta name="color-scheme" content="light"/>
+      <meta name="supported-color-schemes" content="light"/>
+      <meta name="format-detection" content="telephone=no"/>
+      <meta name="format-detection" content="date=no"/>
+      <meta name="format-detection" content="address=no"/>
+      <meta name="format-detection" content="email=no"/>
+      
+    </mj-raw>
+    <mj-attributes>
+      <mj-all font-family="Arial, Helvetica, sans-serif" font-weight="300" font-size="16px" line-height="120%" color="#626262"/>
+      <mj-image border="none"/>
+    </mj-attributes>
+    <mj-breakpoint width="480px"></mj-breakpoint>
+  </mj-head>
+  <mj-body background-color="#dddddd">      
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0" align="center" font-family="Arial, Helvetica, sans-serif" font-size="12px" font-weight="400" line-height="16px" color="#1b1b1b"><a style="color:#0000ff;" href="#">Voir la version en ligne</a> | <a style="color:#0000ff;" href="#">Ajouter au carnet d'adresses</a> | <a style="color:#0000ff;" href="#">Retirer de la liste de diffusion contact@ecosup-campus.fr</a></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-top="0" padding-bottom="0" padding-left="20px" background-color="#000000">
+      <mj-column vertical-align="middle" background-color="#00eb5e" padding="25px 20px">
+        <mj-image padding="0" align="left" width="121px" src="https://i.ibb.co/7nSPFXj/logo3.png" alt="logo Pluxee"></mj-image>
+        <mj-text padding-top="20px" padding-bottom="0" padding-left="0" padding-right="0" align="left" font-family="Arial, Helvetica, sans-serif" font-size="27px" line-height="100%" font-weight="700" color="#221c46">Bonne nouvelle,</mj-text>
+        <mj-text padding="0" align="left" font-family="Arial, Helvetica, sans-serif" font-size="35px" line-height="100%" font-weight="700" color="#221c46">vous êtes éligible !</mj-text>
+        <mj-text padding-top="12px" padding-bottom="20px" padding-right="0" padding-left="0" align="left" font-family="Arial, Helvetica, sans-serif" font-size="16px" line-height="120%" font-weight="400" color="#221c46">Choisissez l'unique carte restaurant responsable et biosourcée du marché</mj-text>
+        <mj-button padding="0" align="left" background-color="#00eb5e" border="3px solid #221c46" inner-padding="16px 30px" color="#221c46" font-family="Arial, Helvetica, sans-serif" font-size="16px" font-weight="700" line-height="120%">Je me renseigne</mj-button>
+      </mj-column>
+      <mj-column vertical-align="middle">
+        <mj-image padding="0" src="https://i.ibb.co/nP3s9RD/banner.jpg" alt="Paiement avec la carte Pluxee"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text>Profitez de tous les avantages de la carte Pluxee Restaurant (anciennement Sodexo Pass)</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding="0">
+      <mj-column width="20px"></mj-column>
+      <mj-column width="173,333333px" padding="10px" background-color="#ff7375">
+        <mj-image padding="0" align="center" width="68px" src="https://i.ibb.co/fkygwhJ/p1-1.png"></mj-image>
+        <mj-text padding="0" align="center" font-family="Arial, Helvetica, sans-serif" font-size="11px" font-weight="700" line-height="13px" color="#221c46">Faites-vous plaisir à la maison comme au bureau</mj-text>
+        <mj-text padding="0" align="center" font-family="Arial, Helvetica, sans-serif" font-size="11px" font-weight="400" line-height="13px" color="#221c46">Restaurants, boulangeries, grandes surfaces, plateformes de livraison... +de 250 000 points de vente disponibles.</mj-text>
+      </mj-column>
+      <mj-column width="20px">
+        <mj-spacer height="20px"></mj-spacer>
+      </mj-column>
+      <mj-column width="173,333333px" padding="10px" background-color="#17ccf9">
+        <mj-image padding="0" align="center" width="76px" src="https://i.ibb.co/BBbZQW7/p4.png"></mj-image>
+        <mj-text padding="0" align="center" font-family="Arial, Helvetica, sans-serif" font-size="11px" font-weight="700" line-height="13px" color="#221c46">Payez comme vous voulez</mj-text>
+        <mj-text padding="0" align="center" font-family="Arial, Helvetica, sans-serif" font-size="11px" font-weight="400" line-height="13px" color="221c46">Sans contact ou avec votre smartphone, payez au centime près et sans limite grâce au complétement de paiement.</mj-text>
+      </mj-column>
+      <mj-column width="20px">
+        <mj-spacer height="20px"></mj-spacer>
+      </mj-column>
+      <mj-column width="173,333333px" padding="10px" background-color="#ffdc37">
+        <mj-image padding="0" align="center" width="68px" src="https://i.ibb.co/fkygwhJ/p1-1.png"></mj-image>
+        <mj-text padding="0" align="center" font-family="Arial, Helvetica, sans-serif" font-size="11px" font-weight="700" line-height="13px" color="#221c46">Gagnez du pouvoir d'achat</mj-text>
+        <mj-text padding="0" align="center" font-family="Arial, Helvetica, sans-serif" font-size="11px" font-weight="400" line-height="13px" color="#221c46">Profitez de réductions exclusives. Réalisez en moyenne jusqu'à 1 918 € d'économies grâce à des bons plans négociés. </mj-text>
+      </mj-column>
+      <mj-column width="20px"></mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding="25px 20px">
+      <mj-column>
+        <mj-button padding="0" align="center" background-color="#00eb5e" border="3px solid #221c46" inner-padding="16px 30px" color="#221c46" font-family="Arial, Helvetica, sans-serif" font-size="16px" font-weight="700" line-height="120%">en savoir plus</mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="20px">
+      <mj-column>
+        <mj-text padding="0" align="center" font-family="Arial, Helvetica, sans-serif" font-size="10px" font-weight="400" line-height="14px">Ce message vous est adressé par Altares pour vous présenter les services de son client.</mj-text>
+        <mj-text padding="0" align="center" font-family="Arial, Helvetica, sans-serif" font-size="10px" font-weight="400" line-height="14px">Plus de détails sur l'envoi de cet email et nos engagements sont accessibles <a style="color:#0000ff" href="#">par ce lien</a>.</mj-text>
+        <mj-text padding="0" align="center" font-family="Arial, Helvetica, sans-serif" font-size="10px" font-weight="400" line-height="14px">Si vous souhaitez stopper la réception des emails d'Altares pour ce client, <a style="color:#0000ff" href="#">suivez ce lien</a>,</mj-text>
+        <mj-text padding="0" align="center" font-family="Arial, Helvetica, sans-serif" font-size="10px" font-weight="400" line-height="14px">ou la réception de tous nos envois, <a style="color:#0000ff" href="#">suivez cet autre lien</a>.</mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
